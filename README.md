@@ -38,3 +38,6 @@ Welcome to my GitHub Profile! This is Rishab, Owner of [Wiki-kingdom](https://ww
         </div>
     </td>
 </tr></table>  
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
